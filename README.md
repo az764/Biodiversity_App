@@ -10,3 +10,5 @@ Please install the following libraries to run this app
 - shinydashboard
 - leaflet
 - ggplot2
+
+CSV files were too large to be uploaded to Git but they can be seen in the .Rdata file
